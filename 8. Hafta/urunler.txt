@@ -1,0 +1,4 @@
+
+Ürün adý: Elma
+Ürün ücreti: 11.36TL
+
